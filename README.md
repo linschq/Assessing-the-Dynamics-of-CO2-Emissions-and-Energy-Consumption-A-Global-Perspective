@@ -1,0 +1,1 @@
+# Assessing-the-Dynamics-of-CO2-Emissions-and-Energy-Consumption-A-Global-Perspective
