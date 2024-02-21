@@ -1,6 +1,6 @@
 # Assessing the Dynamics of CO2 Emissions and Energy Consumption: A Global Perspective
 
-The data I got from https://ourworldindata.org/co2-emissions 
+The data I got are from https://ourworldindata.org/co2-emissions 
 
 Summary of the Data Cleaning and Analysis Process from the Research "Assessing the Dynamics of CO2 Emissions and Energy Consumption: A Global Perspective":
 
