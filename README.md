@@ -13,7 +13,7 @@ Functions like dropna() or filling values using specific methods are used depend
 3. Column and Row Selection:
 Column and row selection is carried out to focus analysis on relevant variables and quality data.
 The selection was made based on the objectives of the analysis and the relevance of the variables to the research questions.
-4.Advanced Descriptive Analysis:
+4. Advanced Descriptive Analysis:
 Advanced descriptive analysis can involve clustering, calculation of means, medians, and additional visualizations to understand more deeply the characteristics of the dataset.
 This analysis may involve selecting clean and relevant data.
 5. Hypothesis testing:
